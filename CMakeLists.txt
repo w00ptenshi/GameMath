@@ -98,6 +98,7 @@ set(FLOAT_SOURCE
     float/s_lrintf.c
     float/s_lroundf.c
     float/s_modff.c
+    float/s_nearbyintf.c
     float/s_nextafterf.c
     float/s_remquof.c
     float/s_rintf.c
